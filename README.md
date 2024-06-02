@@ -2,7 +2,7 @@
 
 This repository contains my solutions to various problems on LeetCode. Each solution is organized by problem and includes the following files:
 - `<solution>.cpp`: The C++ code file for the solution.
-- `note.md`: A markdown file containing notes or explanations about the solution.
+- `note.md` **(optional)**: A markdown file containing notes or explanations about the solution.
 - `README.md`: A markdown file with the problem description.
 
 ## Repository Structure
